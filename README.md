@@ -41,6 +41,8 @@ SEIC is all about **STEM** (Science, Technology, Engineering & Mathematics) and 
 ---
 Head over to the 
 
+---
+
 ## We don't promise 🏳️
 The things we don't promise you:
 + Your active participation.
