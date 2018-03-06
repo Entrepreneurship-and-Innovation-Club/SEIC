@@ -1,4 +1,4 @@
-# SEIC - SMVDU Entrepreneurship & Innovation Club
+# SEIC - SMVDU Entrepreneurship & Innovation Club 🚀✨
 
 <img align="right"
      title="SEIC logo" src="./logo.jpg">
