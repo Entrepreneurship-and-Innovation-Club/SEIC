@@ -15,7 +15,7 @@ _SEIC aims to help university memebers experiment, collaborate, initiate and imp
 ---
 Head over to the 
 
-## We don't promise 
+## We don't promise 🏳️
 The things we don't promise you:
 + Your active participation.
 + 100% satisfaction
