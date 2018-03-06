@@ -6,6 +6,14 @@
 **ABOUT** : 
 _SEIC aims to help university memebers experiment, collaborate, initiate and implement ideas & plans. Meet and share ideas. Take risks, face challenges and commit to their dreams. To fund their dream project. Innovate in their fields. Meet established innovators & entrepreneurs. And to build and network with a great community of doers._
 
+## SEIC helps you
+
+Find and meet like-minded, knowledgeful, motivated individuals, potentially willing to join your project.
+
+Present your ideas / creations to a wider audience and test it with a support group.
+
+Fund your project if it requires specialized equiment not available locally or not affordale to you.
+
 ## Recommended interest fields
 If you consider yourself or your idea among any of the mentioned fields, we recommend you part-take in the club activities:
 + *Music*
