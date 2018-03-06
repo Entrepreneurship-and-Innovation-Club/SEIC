@@ -9,16 +9,20 @@ _SEIC aims to help university memebers experiment, collaborate, initiate and imp
 ## Recommended interest fields
 If you consider yourself or your idea among any of the mentioned fields, we recommend you part-take in the club activities:
 + *Music*
++ *Design*
++ *Architecture*
 + *Photography*
 + *Dance*
 + *Drama*
 + *Technology*
++ *Engineering*
 + *Mathematics*
 + *Science*
 + *Philosophy*
 + *Creative Writing*
++ *(Plausible field we forgot mentioning)*
 
-The club can help you convert your ideas into reality, to innovate. It can't help you learn these fields. We consider you will pitch in your ideas / plans only when you're confident you have atleast half the knowledge that back those ideas.
+SEIC is all about **STEM** (Science, Technology, Engineering & Mathematics) and **TED** (Technology, Entertainment & Design). The club can help you convert your ideas into reality, to innovate. It can't help you learn these fields. We consider you will pitch in your ideas / plans only when you're confident you have atleast half the knowledge that back those ideas.
 
 ## Goals ⚽🥅
 1. Encourage and develop ideas into reality / products.
