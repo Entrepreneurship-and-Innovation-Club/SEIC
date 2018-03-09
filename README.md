@@ -39,7 +39,7 @@ SEIC is all about **STEM** (Science, Technology, Engineering & Mathematics) and 
 4. Aid in networking and exposing great products and ideas. 
 
 ---
-Head over to the 
+(Portion under construction) Head over to the [**Issues**]() section to contribute ideas, and have contructive discussions on the same. We will also be listing some [**Projects**]() soon, once the wheels are set in motion. _**Stay active. Keep participating. Both positive and negative inputs welcome, given they are both contructive. Don't just critique, suggest solutions. Cheers!**
 
 ---
 
