@@ -39,7 +39,7 @@ SEIC is all about **STEM** (Science, Technology, Engineering & Mathematics) and 
 4. Aid in networking and exposing great products and ideas. 
 
 ---
-(Portion under construction) Head over to the [**Issues**](https://github.com/Entrepreneurship-and-Innovation-Club/SEIC/issues) section to contribute ideas, and have contructive discussions on the same. We will also be listing some [**Projects**](https://github.com/Entrepreneurship-and-Innovation-Club/SEIC/projects) soon, once the wheels are set in motion. _**Stay active. Keep participating. Both positive and negative inputs welcome, given they are both contructive. Don't just critique, suggest solutions. Cheers!**
+(Portion under construction) Head over to the [**Issues**](https://github.com/Entrepreneurship-and-Innovation-Club/SEIC/issues) section to contribute ideas, and have contructive discussions on the same. We will also be listing some [**Projects**](https://github.com/Entrepreneurship-and-Innovation-Club/SEIC/projects) soon, once the wheels are set in motion. _**Stay active. Keep participating. Both positive and negative inputs welcome, given they are contructive 🤗.**_
 
 ---
 
