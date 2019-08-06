@@ -1,3 +1,5 @@
+**Looking for active maintainers. People currently at SMVDU are invited to take ownership of this organisation and take it forward**
+
 # SEIC - SMVDU Entrepreneurship & Innovation Club 🚀✨
 
 <img align="right"
